@@ -1,0 +1,25 @@
+{
+  "name": "puppeteer-sample",
+  "version": "1.0.0",
+  "description": "Puppeteet Headless Chrome Sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giansalex/puppeteer-sample.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "Giancarlos Salas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giansalex/puppeteer-sample/issues"
+  },
+  "homepage": "https://github.com/giansalex/puppeteer-sample#readme",
+  "dependencies": {
+    "puppeteer": "^1.3.0"
+  }
+}
